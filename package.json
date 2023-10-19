@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "validator": "^13.11.0"
+  },
+  "name": "rizki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index2.js",
+    "dev": "nodemon index2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkifauzip/Pertemuan-3---PelatihanCoding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizkifauzip/Pertemuan-3---PelatihanCoding/issues"
+  },
+  "homepage": "https://github.com/rizkifauzip/Pertemuan-3---PelatihanCoding#readme",
+  "description": ""
+}
